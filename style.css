@@ -20,12 +20,12 @@ body {
 
 h1, h2, h3 {
   font-family: 'Cinzel Decorative', cursive;
-  color: white;
+  color: black;
 }
 
 p, input, li {
   font-family: 'Roboto Condensed', sans-serif;
-  color: white;
+  color: black;
 }
 
 h1 {
@@ -57,12 +57,12 @@ header {
 }
 
 body > * {
-  background-color: white;
+  background-color: grey;
   padding: 1%;
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: white;
+  background-color: grey;
   padding: 1%;
 }
 
