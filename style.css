@@ -20,12 +20,12 @@ body {
 
 h1, h2, h3 {
   font-family: 'Cinzel Decorative', cursive;
-  color: #2a2a2a;
+  color: white;
 }
 
 p, input, li {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #2a2a2a;
+  color: white;
 }
 
 h1 {
